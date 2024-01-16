@@ -1,4 +1,5 @@
 repo link
-https://github.com/Mrm-abdullah/abdullah-travel
+https://github.com/Mrm-abdullah/abdullah-travel-b9a2
 
-live link
+live link:
+https://mrm-abdullah.github.io/abdullah-travel/
